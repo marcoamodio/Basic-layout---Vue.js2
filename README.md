@@ -1,6 +1,6 @@
 # Vue.js 2.0 + Element
 
-> Basic layout using Element ui + Vue.js 2
+> Vue.js 2.0 with Element
   Marco Amodio 2017
 
 ## Build Setup
