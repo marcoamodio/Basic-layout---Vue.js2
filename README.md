@@ -1,6 +1,6 @@
-# marticvs
+# Vue.js 2
 
-> Basic layout usinf Element + Vue.js 2
+> Basic layout using Element ui + Vue.js 2
   Marco Amodio 2017
 
 ## Build Setup
