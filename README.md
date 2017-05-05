@@ -26,3 +26,5 @@ npm test
 ```
 
 
+![vuelogo](https://cloud.githubusercontent.com/assets/8478963/25755024/a3f232c4-31c1-11e7-9caf-0f1249b78a6e.png)
+
