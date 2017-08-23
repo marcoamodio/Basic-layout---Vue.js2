@@ -8,8 +8,9 @@ import Frontpage from '@/components/Frontpage'
 Vue.use(Router)
 
 Vue.component('app-header', Header);
-Vue.component('app-footer', Footer);
 Vue.component('app-frontpage', Frontpage);
+Vue.component('app-footer', Footer);
+
 
 
 export default new Router({

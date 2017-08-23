@@ -13,6 +13,7 @@ export default {
 }
 </script>
 
+<!-- call the style directly into component -->
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -20,5 +21,11 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  max-width: 860px;
+  height: 100%;
 }
 </style>

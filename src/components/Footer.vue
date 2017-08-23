@@ -8,9 +8,12 @@
 
 <style>
   .Footer {
-    /*width: 100%;
+    position: absolute;
+    right: 0;
     bottom: 0;
-    position: fixed;*/
+    left: 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
   }
 </style>
 
